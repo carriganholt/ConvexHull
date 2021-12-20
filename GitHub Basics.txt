@@ -1,0 +1,11 @@
+Cloning a repository:
+	Navigate in command prompt to the cloning destination
+	Run "git clone <URL>" command
+	It may ask for your username and password at this point
+
+Committing/pushing to Git:
+	In the repository root folder
+	Run 'git add .' command (adds all sub files & sub folders to the local repo)
+	Run 'git commit -am "<message>"' command (commits all changes to the local repo)
+	Run 'git push' command (pushes all changes to the repo online)
+	It may ask for your username and password at this point
